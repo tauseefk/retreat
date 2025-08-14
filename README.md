@@ -1,4 +1,4 @@
-## Rex
+## Retreat
 
 Ring buffer with movable head for undo/redo.
 
